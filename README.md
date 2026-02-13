@@ -14,11 +14,8 @@ A clean, responsive React application showcasing a curated collection of Amazon 
 - [📸 Screenshots](#-screenshots)
 - [🚀 Live Demo](#-live-demo)
 - [💻 Installation](#-installation)
-- [🎮 Usage](#-usage)
 - [🛠️ Built With](#️-built-with)
-- [📁 Project Structure](#-project-structure)
 - [🙏 Credits](#-credits)
-- [📄 License](#-license)
 
 ---
 
@@ -85,7 +82,7 @@ Builds the app and deploys it to the `gh-pages` branch (updates the live site).
 
 ---
 
-## Credits
+## 🙏 Credits
 
 This project was built following an excellent tutorial from **FreeCodeCamp** on YouTube. Special thanks to the FreeCodeCamp team for creating accessible, high-quality coding education.
 
