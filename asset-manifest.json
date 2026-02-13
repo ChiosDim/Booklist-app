@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Booklist-app/static/css/main.342999bf.css",
+    "main.js": "/Booklist-app/static/js/main.0d9be60c.js",
+    "static/media/book2.jpg": "/Booklist-app/static/media/book2.f79816706de405d43307.jpg",
+    "static/media/book1.jpg": "/Booklist-app/static/media/book1.6096ef0de09710313ff2.jpg",
+    "static/media/book3.jpg": "/Booklist-app/static/media/book3.91ba2d66f2f8836283fb.jpg",
+    "index.html": "/Booklist-app/index.html",
+    "main.342999bf.css.map": "/Booklist-app/static/css/main.342999bf.css.map",
+    "main.0d9be60c.js.map": "/Booklist-app/static/js/main.0d9be60c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.342999bf.css",
+    "static/js/main.0d9be60c.js"
+  ]
+}
